@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/238
     wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21808#The-HouseAn-Episode-in-the-Lives-of-Reuben-Baker-Astronomer-and-of-His-Wife-Alice
 gutenberg_issued: '2007-06-11'
 gutenberg_type: Text
 identifiers:
